@@ -26,7 +26,9 @@ ClickVisual 可以安装在不同种类的操作系统上，并且可以使用�
 ![img.png](../../images/instance-create.png)
 
 ## 第五步：添加数据库
-回到日志页面，右键点击实例，弹出菜单，创建数据库。  
+回到日志页面，右键点击实例，弹出菜单，创建数据库。    
+这里会根据你输入的名称创建 clickhouse 的数据库。
+
 ![img.png](../../images/database-create.png)
 
 ## 第六步：创建日志库
